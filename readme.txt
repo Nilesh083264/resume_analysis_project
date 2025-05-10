@@ -55,5 +55,5 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 ----------------------------
 - Resume skill extraction using NLP
 - Role classification (e.g., Data Scientist, QA Engineer)
-- Education gap detection based on year parsing
+- Education gap detection based on year parsing.
 
